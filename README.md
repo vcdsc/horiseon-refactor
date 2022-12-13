@@ -7,7 +7,7 @@ This challenge's theme was accessibility. Main goals were to ensure Client's cod
 - Use of semantic HTML elements.
 - Images and icon elements contain accessible alt attributes.
 
-# Main Takeaways
+## Main Takeaways
 
 - The use of semantic HTML elements not only makes for a more easily maintainable codebase (since elements follow a logical structure), it can also have impacts on the quality of information screen readers can capture. For instance, if we leave an `img` `alt` attribute empty a screen reader will skip over it, so if the image has a purpose other than decoration and it adds to the meaning of the text next to it, the `alt` attribute will provide a better user experience to a screen reader user.
 
@@ -19,7 +19,7 @@ This challenge's theme was accessibility. Main goals were to ensure Client's cod
 
 ## GitHub Pages
 
-Deployed version of the website can be seen [here]().
+Deployed version of the Horiseon website can be seen [here](https://vcdsc.github.io/horiseon-refactor/).
 
 ## License
 
